@@ -5,6 +5,9 @@ The current development branch was forked from the gcc 4.9.1 release tar ball.
 ## Building and installation
 
 ### BUILD PREREQUISITES
+Err:1 
+"configure: error: Building GCC requires GMP 4.2+, MPFR 2.4.0+ and MPC 0.8.0+."
+
 Building GCC requires the following components:
  * sudo apt-get install libgmp* -y
  * sudo apt-get install libmpfr* -y
